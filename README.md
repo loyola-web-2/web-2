@@ -13,3 +13,6 @@
 ## History
 - http://blog.froont.com/brief-history-of-web-design-for-designers/
 - http://blog.froont.com/9-basic-principles-of-responsive-web-design/
+
+## Inspiration
+- https://www.youtube.com/watch?v=E1oZhEIrer4
